@@ -8,6 +8,7 @@ I'm a DevOps Engineer student from Sweden 🇸🇪
 - Azure
 - Containers and Kubernetes
 - CI/CD
+- SQL
 
 ### Interested in
 - Cloud infrastructure
